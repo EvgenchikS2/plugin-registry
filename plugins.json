@@ -375,6 +375,44 @@
       "version": "1.7.10",
       "downloadUrl": "https://github.com/visadaking/nuclear-mini-player/releases/download/v1.7.10/plugin.zip",
       "addedAt": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "nuclear-plugin-lrclib",
+      "name": "LRCLIB",
+      "description": "Lyrics plugin using LRCLIB, a free and open database of lyrics",
+      "author": "nukeop",
+      "repo": "NuclearPlayer/nuclear-plugin-lrclib",
+      "categories": [
+        "lyrics"
+      ],
+      "tags": [
+        "lyrics",
+        "synced-lyrics",
+        "lrclib"
+      ],
+      "version": "0.1.0",
+      "downloadUrl": "https://github.com/NuclearPlayer/nuclear-plugin-lrclib/releases/download/v0.1.0/plugin.zip",
+      "addedAt": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": "nuclear-plugin-kugou",
+      "name": "Kugou",
+      "description": "Lyrics plugin using Kugou",
+      "author": "nukeop",
+      "repo": "NuclearPlayer/nuclear-plugin-kugou",
+      "categories": [
+        "lyrics"
+      ],
+      "tags": [
+        "lyrics",
+        "synced-lyrics",
+        "kugou",
+        "chinese",
+        "translation"
+      ],
+      "version": "0.1.0",
+      "downloadUrl": "https://github.com/NuclearPlayer/nuclear-plugin-kugou/releases/download/v0.1.0/plugin.zip",
+      "addedAt": "2026-10-05T00:00:00Z"
     }
   ],
   "version": 1
